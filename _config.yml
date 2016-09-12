@@ -3,7 +3,7 @@ title: GALERI MOMEN 2.0
 email: ""
 description: "Story Gallery"
 url: "http://farrachman.github.io"
-baseurl: "/galerimomen2.0"
+baseurl: "/farrachman.github.io"
 facebook_username: "zulfarr"
 twitter_username: "zulfarr"
 instagram_username: "farrachman"
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://farrachman.github.io/photorama/gallery/"  
-  - JOURNAL: "http://farrachman.github.io/photorama/journal/"
-  - ABOUT: "http://farrachman.github.io/photorama/about/"
+  - GALLERY: "http://farrachman.github.io/farrachman.github.io/gallery/"  
+  - JOURNAL: "http://farrachman.github.io/farrachman.github.io/journal/"
+  - ABOUT: "http://farrachman.github.io/farrachman.github.io/about/"
 
 # All translation keys
 translations:
